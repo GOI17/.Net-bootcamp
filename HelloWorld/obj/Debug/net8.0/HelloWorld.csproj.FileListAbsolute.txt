@@ -1,0 +1,14 @@
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
