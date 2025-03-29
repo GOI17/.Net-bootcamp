@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Week2.csproj",
+      "projectName": "Week2",
+      "projectPath": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Week2.csproj",
       "packagesPath": "/Users/gilbertoolivas/.nuget/packages/",
-      "outputPath": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/HelloWorld/obj/",
+      "outputPath": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gilbertoolivas/.nuget/NuGet/NuGet.Config"
