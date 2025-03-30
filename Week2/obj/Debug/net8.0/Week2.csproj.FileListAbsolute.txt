@@ -1,0 +1,15 @@
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/bin/Debug/net8.0/Week2
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/bin/Debug/net8.0/Week2.deps.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/bin/Debug/net8.0/Week2.runtimeconfig.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/bin/Debug/net8.0/Week2.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/bin/Debug/net8.0/Week2.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.AssemblyInfoInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.AssemblyInfo.cs
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.csproj.CoreCompileInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.sourcelink.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/refint/Week2.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/Week2.genruntimeconfig.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/obj/Debug/net8.0/ref/Week2.dll

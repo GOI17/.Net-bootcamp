@@ -1,0 +1,15 @@
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll
