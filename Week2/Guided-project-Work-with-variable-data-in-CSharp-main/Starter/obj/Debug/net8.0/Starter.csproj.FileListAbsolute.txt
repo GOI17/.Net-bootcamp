@@ -1,0 +1,15 @@
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/ref/Starter.dll
