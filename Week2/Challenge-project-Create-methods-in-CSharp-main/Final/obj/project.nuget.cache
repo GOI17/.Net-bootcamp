@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8Pw743U9AdOyQxf35Qh9KcZwrPdWdGgakjrjRhq9IwJmc5/1b+o0R9WnPrvda2LWrOYseDORVidDahZMaRoDA==",
+  "success": true,
+  "projectFilePath": "/Users/gilbertoolivas/Documents/workspace/apex/CsharpProjects/Week2/Challenge-project-Create-methods-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/gilbertoolivas/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/gilbertoolivas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/gilbertoolivas/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
